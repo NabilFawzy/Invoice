@@ -1,0 +1,9 @@
+F:\.netCore\Dynamics link\Invoice\Invoice\bin\Debug\Invoice.exe.config
+F:\.netCore\Dynamics link\Invoice\Invoice\bin\Debug\Invoice.exe
+F:\.netCore\Dynamics link\Invoice\Invoice\bin\Debug\Invoice.pdb
+F:\.netCore\Dynamics link\Invoice\Invoice\obj\Debug\Invoice.InvoiceForm.resources
+F:\.netCore\Dynamics link\Invoice\Invoice\obj\Debug\Invoice.Properties.Resources.resources
+F:\.netCore\Dynamics link\Invoice\Invoice\obj\Debug\Invoice.csproj.GenerateResource.cache
+F:\.netCore\Dynamics link\Invoice\Invoice\obj\Debug\Invoice.csproj.CoreCompileInputs.cache
+F:\.netCore\Dynamics link\Invoice\Invoice\obj\Debug\Invoice.exe
+F:\.netCore\Dynamics link\Invoice\Invoice\obj\Debug\Invoice.pdb
